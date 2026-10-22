@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven / Archivos compilados
+target/
+*.class
+*.jar
+*.war
+
+# Otros
+*.log
+.DS_Store
